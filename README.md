@@ -11,4 +11,4 @@ Developed using React Native and Expo, this Amazon clone project is a mobile app
 
 ## Project GIF
 
-![Project GIF](../assets/GIF.gif)
+![Project GIF](assets/GIF.gif)
